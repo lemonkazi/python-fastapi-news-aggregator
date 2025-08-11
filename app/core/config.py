@@ -19,7 +19,7 @@ class Settings(BaseSettings):
     PROJECT_NAME: str = "News Aggregator"
     MYSQL_USER: str = "user"
     MYSQL_PASSWORD: str = "secret"
-    MYSQL_DB: str = "python_practice"
+    MYSQL_DB: str = "python_news_aggregator"
     MYSQL_HOST: str = "db"
     MYSQL_PORT: int = 3306
 
